@@ -1,3 +1,5 @@
+# Description
+
 Fine-tuned a YOLOv8 pose estimation model to detect and label keypoints on horses . The project involved organizing a dataset for training and validation, converting labeled keypoint annotations into YOLO format, and training a deep learning model to recognize horse landmarks.
 
 # Key features of the project include:
